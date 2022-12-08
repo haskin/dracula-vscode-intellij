@@ -1,7 +1,8 @@
 {
   "name": "DraculaVSCode",
-  "author": "YourCompany",
+  "author": "haskin",
   "dark": true,
+  "editorScheme": "/DraculaVSCode.xml",
   "colors": {
     "primaryRed": "#821010"
   },
