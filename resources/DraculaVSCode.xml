@@ -7,13 +7,6 @@
         <property name="originalScheme">_@user_Dracula VSCode</property>
     </metaInfo>
     <colors>
-        <option name="CARET_COLOR" value="cccccc"/>
-        <option name="CARET_ROW_COLOR" value="323232"/>
-        <option name="CONSOLE_BACKGROUND_KEY" value="2b2b2b"/>
-        <option name="GUTTER_BACKGROUND" value="313335"/>
-        <option name="LINE_NUMBERS_COLOR" value="666879"/>
-        <option name="SELECTION_BACKGROUND" value="666b87"/>
-        <option name="SELECTION_FOREGROUND" value="44475a"/>
     </colors>
     <attributes>
         <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
@@ -76,7 +69,7 @@
         </option>
         <option name="BREAKPOINT_ATTRIBUTES">
             <value>
-                <option name="BACKGROUND" value="400000"/>
+                <option name="BACKGROUND" value="3a2323"/>
                 <option name="ERROR_STRIPE_COLOR" value="ffffff"/>
             </value>
         </option>
